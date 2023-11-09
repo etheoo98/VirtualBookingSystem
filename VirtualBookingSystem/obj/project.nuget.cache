@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xv3fy38PlGS2h7Q1uoWUjAyf1DCy5gfR1iuNnR/g1xrC0KgSxHbJhJB958DoUu8bmEHe4rzBj+RBq1NGKF6P7g==",
+  "success": true,
+  "projectFilePath": "/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/VirtualBookingSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

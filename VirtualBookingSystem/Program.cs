@@ -4,6 +4,7 @@ internal static class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Hello, World!"); // You made it!
+        Ebook bok = new Ebook("Boken", "Alexander", "0140280197", 2.6, "https://bok.com");
+        bok.PrintInfo();
     }
 }

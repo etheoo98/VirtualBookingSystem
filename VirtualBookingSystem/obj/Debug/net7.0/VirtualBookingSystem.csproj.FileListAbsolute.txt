@@ -1,0 +1,15 @@
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/bin/Debug/net7.0/VirtualBookingSystem
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/bin/Debug/net7.0/VirtualBookingSystem.deps.json
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/bin/Debug/net7.0/VirtualBookingSystem.runtimeconfig.json
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/bin/Debug/net7.0/VirtualBookingSystem.dll
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/bin/Debug/net7.0/VirtualBookingSystem.pdb
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.csproj.AssemblyReference.cache
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.AssemblyInfoInputs.cache
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.AssemblyInfo.cs
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.csproj.CoreCompileInputs.cache
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.dll
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/refint/VirtualBookingSystem.dll
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.pdb
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/VirtualBookingSystem.genruntimeconfig.cache
+/home/alex/Downloads/VirtualBookingSystem/VirtualBookingSystem/obj/Debug/net7.0/ref/VirtualBookingSystem.dll
