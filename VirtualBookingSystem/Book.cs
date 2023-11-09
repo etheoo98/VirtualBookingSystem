@@ -15,6 +15,6 @@ public class Book
 
     public virtual void PrintInfo()
     {
-        Console.WriteLine($"Title:{Title}\nAuthor:{Author}\nISBN{ISBN}");
+        Console.WriteLine($"Title:{Title}\nAuthor:{Author}\nISBN:{ISBN}");
     }
 }
