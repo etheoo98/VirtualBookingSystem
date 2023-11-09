@@ -13,6 +13,6 @@ public class Ebook : Book
 
     public override void PrintInfo()
     {
-        Console.WriteLine($"Title:{Title}\nAuthor:{Author}\nISBN{ISBN}\nFileSize:{FileSize}\nDownloadUrl:{DownloadUrl}");
+        Console.WriteLine($"Title:{Title}\nAuthor:{Author}\nISBN:{ISBN}\nFileSize:{FileSize}\nDownloadUrl:{DownloadUrl}");
     }
 }
